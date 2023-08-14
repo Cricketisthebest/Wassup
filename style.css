@@ -1,0 +1,37 @@
+body {
+  font-family: "Itim", cursive;
+}
+.heading {
+  width: 100%;
+  text-align: left;
+}
+.heading h3 {
+  display: inline;
+}
+.heading button {
+  float: right;
+  border: 1px outset white;
+}
+#start, #status {
+  font-size: 22px;
+  display: inline;
+}
+.instruction_image {
+  display: inline;
+  width: 45%;
+}
+video {
+  background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.africanews.com%2F2016%2F05%2F27%2Fnigeria-s-table-tennis-star-makes-7th-consecutive-appearance-in-olympics%2F&psig=AOvVaw2NwWI5uw-bOuwlHO5M1LxR&ust=1692079830134000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjrm92-24ADFQAAAAAdAAAAABAF');
+  background-size: cover;
+  background-position: center;
+  padding: 45px;
+}
+h4 {
+  line-height: 3px;
+  background-color: blue;
+  color: cyan;
+  margin: 0px;
+}
+.modal-dialog {
+  width: 90%;
+}
